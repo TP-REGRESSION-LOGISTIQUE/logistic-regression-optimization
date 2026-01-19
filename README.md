@@ -3,7 +3,7 @@ TP d'analyse comparative des solveurs d'optimisation dans la régression logisti
 
 **Université de Yaoundé I** **Département d'Informatique** **Cours :** INF4127 - Optimisation 2  
 **Enseignant :** Pr. MELATAGIA  
-**Année Académique :** 2024-2025
+**Année Académique :** 2025-2026
 
 ---
 
